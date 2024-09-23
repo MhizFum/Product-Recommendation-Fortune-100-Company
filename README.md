@@ -59,3 +59,17 @@ consider while doing this analysis.
 
 • 5.5K: A regular-sized store with only front regular fuel stations. These are normally, 
 located in cities (populated areas) but can be located anywhere.
+
+# IMPORTANT
+
+1. What is the objective of our analysis?
+Find the ideal product offer mix for each store
+
+2. What does success looks like?
+Offers distribution based on hidtorical sales
+
+3. What trends are important?
+Correlation
+
+4. What are the deliverables?
+Recommendations, dashboard
